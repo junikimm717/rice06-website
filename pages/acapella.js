@@ -45,6 +45,8 @@ export default function Home() {
           </p>
           <p>
             <Link href='/acapella/its-quiet-uptown.pdf'><ba>View the arrangement</ba></Link>
+            <span> or </span> 
+              <Link href='/acapella/its-quiet-uptown.mcsz'><ba>download the Musescore</ba></Link>
             <span> (last updated: 08/29/25)</span>
           </p>
         </Section>
@@ -70,8 +72,10 @@ export default function Home() {
             <i>I'm never gonna let you go, I'm gonna hold you in my arms forever...</i>
           </p>
           <p>
-            <Link href='/acapella/never-gonna-let-you-go.pdf'><ba>View the arrangement (unfinished WIP)</ba></Link>
-            <span> (last updated: 07/06/25)</span>
+            <Link href='/acapella/never-gonna-let-you-go.pdf'><ba>View the arrangement</ba></Link>
+            <span> or </span> 
+              <Link href='/acapella/never-gonna-let-you-go.mcsz'><ba>download the Musescore</ba></Link>
+            <span> (last updated: 09/13/25)</span>
           </p>
         </Section>
 
